@@ -83,7 +83,7 @@ p {
   top: 0;
 }
 #header a img {
-  width: 50px;
+  width: 100px;
   height: 80%;
   object-fit: cover;
 }
@@ -440,9 +440,9 @@ p {
   margin-bottom: 20px;
 }
 #footer .logo {
-  width: 50px;
+  width: 40%;
   object-fit: cover;
-  height: 50px;
+  height: 40%;
   margin-bottom: 20px;
 }
 #footer h4 {
